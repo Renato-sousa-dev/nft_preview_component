@@ -1,0 +1,19 @@
+body,
+main,
+div,
+span,
+h1,
+p {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+a {
+	text-decoration: none;
+}

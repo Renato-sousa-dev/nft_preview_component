@@ -1,0 +1,12 @@
+:root {
+	--softblue: hsl(215, 51%, 70%);
+	--cyan: hsl(178, 100%, 50%);
+	--cyanHover: hsla(178, 100%, 50%, 0.5);
+
+	--verydarkblue: hsl(217, 54%, 11%);
+	--verydarkblue2: hsl(216, 50%, 16%);
+	--verydarkblue3: hsl(215, 32%, 27%);
+	--white: hsl(0, 0%, 100%);
+
+	--font-primary: "Outfit", sans-serif;
+}
